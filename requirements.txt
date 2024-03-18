@@ -1,0 +1,11 @@
+Flask
+gunicorn
+sqlalchemy
+pymysql
+pytz
+pandas
+scikit-learn
+matplotlib
+numpy
+plotly
+httpagentparser
